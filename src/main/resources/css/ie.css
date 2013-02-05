@@ -1,0 +1,6 @@
+ input[type = radio ], input[type = checkbox ] {
+	background:none;
+	border:none;
+	color:transparent;
+	padding:none;
+}
